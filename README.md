@@ -1,8 +1,4 @@
 # Trello clone web app
 ## Trabajo para la materia de IS2
 
-### Integrantes
-    * Dahiana Jacqueline Mendieta Centurión
-    * Dafne Aylen Torrez Vera
-    * Manuel Enrique Baez Sosa
-    * Diego Rubén Gómez Morel
+Esta es una rama de pruebas. Pueden haber errores en los archivos o ser una versión preliminar.
