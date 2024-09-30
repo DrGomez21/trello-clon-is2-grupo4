@@ -1,0 +1,49 @@
+# General
+*.log
+*.pot
+*.pyc
+*.pyo
+*.sqlite3
+__pycache__/
+*.env
+.env
+
+# Django specific
+*.py[cod]
+*.sqlite3
+db.sqlite3
+/static/
+media/
+
+# Ignore virtual environments
+venv/
+ENV/
+env/
+.venv/
+
+# Node.js specific (React)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Build files for React
+build/
+dist/
+
+# Ignore MacOS system files
+.DS_Store
+
+# Ignore coverage files
+coverage/
+*.cover
+*.py,cover
+.hypothesis/
+*.log
+
+# Ignore VSCode settings
+.vscode/
+
+# Ignore IDEs
+.idea/
+*.iml
